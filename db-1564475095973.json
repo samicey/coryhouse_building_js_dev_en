@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 40384862,
+      "firstName": "Layne",
+      "lastName": "Marvin",
+      "email": "Raegan.Osinski@hotmail.com"
+    },
+    {
+      "id": 50551126,
+      "firstName": "Jessie",
+      "lastName": "Hettinger",
+      "email": "Cary23@gmail.com"
+    },
+    {
+      "id": 66586225,
+      "firstName": "Rubye",
+      "lastName": "Friesen",
+      "email": "Rossie28@hotmail.com"
+    },
+    {
+      "id": 73497609,
+      "firstName": "Gerhard",
+      "lastName": "Blanda",
+      "email": "Hilda_Beahan@hotmail.com"
+    },
+    {
+      "id": 56266255,
+      "firstName": "Rhoda",
+      "lastName": "Pagac",
+      "email": "Rolando23@yahoo.com"
+    }
+  ]
+}
