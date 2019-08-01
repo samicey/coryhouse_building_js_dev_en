@@ -1,6 +1,17 @@
 body{
+  background-image: url(./adventure.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100%;
   font-family: sans-serif;
 }
 table th {
   padding: 5px;
+}
+a{
+text-decoration: none;
+}
+
+table{
+border: 2px solid rgb(48, 206, 82);
 }
